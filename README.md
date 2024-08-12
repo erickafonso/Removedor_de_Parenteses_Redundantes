@@ -39,10 +39,7 @@ Este código VBA é uma macro desenvolvida para ser utilizada no Microsoft Excel
    - Verifique as células no intervalo selecionado. Se houver textos duplicados dentro dos parênteses, eles serão ajustados conforme descrito acima.
    - Uma mensagem de conclusão aparecerá quando o processamento estiver terminado.
 
-## Código VBA
 
-```vba
-' Código fornecido no início deste README
 
 ## Bugs
   - A macro ativa e limpa o conteúdo de todos os parenteses e mantem apenas o primeiro, portanto, se houver 2 parenteses iguais e um diferente, a macro irá bugar.
